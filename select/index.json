@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "13月",
+  "base_artist": "downt",
+  "createdAt": "2026-03-19T19:45:57.904067Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "13月",
+      "artist": "SID",
+      "has_synced": true,
+      "path": "select/01_13月_SID.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "13月",
+      "artist": "downt",
+      "has_synced": false,
+      "path": "select/pl_01_13月_downt.txt"
+    }
+  ]
+}
